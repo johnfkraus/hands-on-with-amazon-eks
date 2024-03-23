@@ -11,6 +11,7 @@ This solution has been built for for explaining all the concepts in this course.
 
 Startup:
 
+```
 git clone https://github.com/johnfkraus/hands-on-with-amazon-eks.git
 alias k=kubectl
 alias ll='ls -lahtr'
@@ -18,3 +19,4 @@ cd hands-on-with-amazon-eks
 ./scripts-by-chapter/prepare-cloud-shell.sh
 ./scripts-by-chapter/chapter-2a.sh
 ![image](https://github.com/johnfkraus/hands-on-with-amazon-eks/assets/3719472/b703136d-9c1e-4cd2-885f-aff394fdda9e)
+```
